@@ -1,4 +1,4 @@
-## **Empowering Your Data with Privacy and Flexibility**
+## **Empowering Your Data and AI with Privacy and Flexibility**
 
 Welcome to AligneAI! We are at the forefront of AI technology, providing open-source models that are deployed directly into your private workspace on the AligneAI cloud. Our mission is to offer personalised AI solutions that cater to your unique business needs while ensuring utmost data privacy and security.
 

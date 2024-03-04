@@ -29,7 +29,7 @@ While OpenAI provides proprietary AI models via a shared platform, AligneAI emph
 
 |   | OpenAI (Focus on innovation) | AligneAI (Focus on stability, security, safety and cost-effectiveness) |
 |---|-------------------------------|--------------------------------------------------------------------|
-| 1 | All proprietary LLMs          | All open source LLMs                                                 |
+| 1 | All proprietary LLMs          | All open source LLMs (Can be fine-tuned)                                                 |
 | 2 | No custom toxic content identification out of the box | Custom toxic content identification available out of the box |
 | 3 | No implementation of PII and data privacy out of the box | Custom PII and data privacy available out of the box |
 | 4 | No guardrails available out of the box | Custom guardrails available out of the box |

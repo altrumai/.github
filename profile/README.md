@@ -27,6 +27,19 @@ AligneAI has a distinctive approach to model deployment and data privacy. We spe
 
 While OpenAI provides proprietary AI models via a shared platform, AligneAI emphasises privacy, customisation, and control by offering open-source models deployed in your private workspace. This approach not only enhances data security but also provides the flexibility to modify and adapt AI models to suit your specific requirements, all while maintaining a scalable and cost-effective cloud infrastructure.
 
+| # | OpenAI (Focus on innovation) | AligneAI (Focus on stability, security, safety and cost-effectiveness) |
+|---|-------------------------------|--------------------------------------------------------------------|
+| 1 | Proprietary models            | Open source models                                                 |
+| 2 | No custom toxic content identification out of the box | Custom toxic content identification available out of the box |
+| 3 | No implementation of PII and data privacy out of the box | Custom PII and data privacy available out of the box |
+| 4 | No guardrails available out of the box | Custom guardrails available out of the box |
+| 5 | Models deployed in shared workspace | Models deployed in private workspace |
+| 6 | No control on the data storage | Transparent control on your data storage |
+| 7 | Charged based on the tokens | Charged based on the infrastructure used |
+| 8 | REST API limits as the models are shared | No limits on the REST API and you pay for Infrastructure |
+| 9 | No serverless available | Auto-scale as per your needs with models scale down to 0 |
+
+
 ### **Getting Started with AligneAI**
 
 1. **Sign Up**: Create your AligneAI account and access our cloud platform.

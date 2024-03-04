@@ -39,6 +39,15 @@ While OpenAI provides proprietary AI models via a shared platform, AligneAI emph
 | 8 | REST API limits as the models are shared | No limits on the REST API and you pay for Infrastructure |
 | 9 | No serverless depoyments available | Auto-scale as per your needs with models scale down to 0 |
 
+### **Use cases for Guardrails that we offer**
+
+- *Automatically filter out harmful or inappropriate content, ensuring that interactions remain respectful and safe.*
+- *Ensure that AI assistants do not inadvertently disclose personal or sensitive information, adhering to privacy laws and building trust with users.*
+- *Embed ethical considerations into AI interactions, preventing bias, discrimination, or the promotion of harmful behaviors.*
+- *Ensure that AI-generated content adheres to local and international regulations.*
+- *Maintain brand integrity by preventing the AI from generating content that could damage the company's reputation.*
+- *Tailor interactions to the user's preferences, cultural context, or accessibility needs.*
+- *Limit the AI's access to certain databases or information sources, ensuring that only relevant and approved content is used in interactions.*
 
 ### **Getting Started with AligneAI**
 

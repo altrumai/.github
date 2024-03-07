@@ -9,6 +9,29 @@ Welcome to AligneAI! We are at the forefront of AI technology, providing open-so
 
 AligneAI has a distinctive approach to model deployment and data privacy. We specialise in offering AI models like LLMs and text embedding models similar to ChatGPT, but with a key difference: we use open source models that are designed to operate within your private workspace on our secure cloud platform. Additionally, with AligneAI you will be able to wrap your model interactions with toxic content identification, data privacy, and your requirement specific guardrails ensuring safe and secure use of AI.
 
+### **What will you be able to achieve?**
+
+With AligneAI you will be able to:
+
+- Adhere to ethical guidelines and demonstrating a commitment to responsible AI usage building trust among users, stakeholders, and regulatory bodies. This trust is crucial for the adoption and sustained use of AI. **Enhanced Trust and Credibility**
+
+- Identify, mitigate and assess potential risks associated with AI applications, such as biases, privacy violations, and unintended harmful outputs. This proactive approach to risk management will prevent reputational damage and legal liabilities. **Risk Mitigation**
+
+- Comply to legal requirements as governments and international bodies introduce more regulations governing AI use (e.g., EU’s AI Act, GDPR for data protection), employing strict guardrails ensures, avoiding fines and sanctions. **Compliance with Regulations**
+
+- Respect human rights, promote fairness, and avoid discrimination or harm. This alignment with ethical norms fosters public acceptance and supports the development of AI systems that contributes positively to society. **Ethical Alignment**
+
+- Encourage innovation by providing a framework within which AI can be developed and used creatively, yet safely. This balance supports the advancement of AI technologies while ensuring they serve the public interest. **Innovation with Responsibility**
+
+- Achieve enhanced user satisfaction and engagement by ensuring that AI outputs are relevant, safe, and unbiased. This leads to better user retention and loyalty over time. **Improved User Experience**
+
+- Ensure that AI applications handle personal information responsibly and in accordance with privacy laws emphasising the importance of data security and user privacy **Data Protection and Privacy**
+
+- Differenciate yourself in a crowded market, appealing to consumers and partners who value responsible business practices.**Market Differentiation**
+
+- Future-proof you AI applications against evolving ethical standards and regulatory landscapes, ensuring longevity and adaptability. **Future-proofing**
+
+
 ### **Our Offerings**
 
 - **Private Workspace Deployment**: Your AI models run in an isolated environment, ensuring that your data never leaves your control.

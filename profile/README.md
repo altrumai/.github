@@ -11,26 +11,17 @@ AligneAI has a distinctive approach to model deployment and data privacy. We spe
 
 ### **What will you be able to achieve?**
 
-With AligneAI you will be able to:
+**With AligneAI you will be able to:**
 
-- Adhere to ethical guidelines and demonstrating a commitment to responsible AI usage building trust among users, stakeholders, and regulatory bodies. This trust is crucial for the adoption and sustained use of AI. **Enhanced Trust and Credibility**
-
-- Identify, mitigate and assess potential risks associated with AI applications, such as biases, privacy violations, and unintended harmful outputs. This proactive approach to risk management will prevent reputational damage and legal liabilities. **Risk Mitigation**
-
-- Comply to legal requirements as governments and international bodies introduce more regulations governing AI use (e.g., EU’s AI Act, GDPR for data protection), employing strict guardrails ensures, avoiding fines and sanctions. **Compliance with Regulations**
-
-- Respect human rights, promote fairness, and avoid discrimination or harm. This alignment with ethical norms fosters public acceptance and supports the development of AI systems that contributes positively to society. **Ethical Alignment**
-
-- Encourage innovation by providing a framework within which AI can be developed and used creatively, yet safely. This balance supports the advancement of AI technologies while ensuring they serve the public interest. **Innovation with Responsibility**
-
-- Achieve enhanced user satisfaction and engagement by ensuring that AI outputs are relevant, safe, and unbiased. This leads to better user retention and loyalty over time. **Improved User Experience**
-
-- Ensure that AI applications handle personal information responsibly and in accordance with privacy laws emphasising the importance of data security and user privacy **Data Protection and Privacy**
-
-- Differenciate yourself in a crowded market, appealing to consumers and partners who value responsible business practices.**Market Differentiation**
-
-- Future-proof you AI applications against evolving ethical standards and regulatory landscapes, ensuring longevity and adaptability. **Future-proofing**
-
+- *Proprietary data remains in your workspace and is not exposed to external environments or third parties.*
+- *Customise models to better suit your specific use cases, including specialised industry vocabulary or company-specific information.*
+- *Control ongoing costs and minimise latency associated with large language models as you use dedicated deployments on your workspace.*
+- *Directly control the computing resources allocated to the models, allowing for optimisation of performance based on specific needs.*
+- *Adhere to ethical guidelines and demonstrating a commitment to responsible AI usage building trust among users, stakeholders, and regulatory bodies.*
+- *Identify, mitigate and assess potential risks associated with AI models, such as biases, privacy violations, and unintended harmful outputs.*
+- *Comply to legal requirements as governments and international bodies introduce more regulations governing AI use (e.g., EU’s AI Act, GDPR for data protection)*
+- *Encourage innovation by using a framework within which AI can be developed and used creatively, yet safely, respecting human rights, promoting fairness, and avoiding discrimination or harm.*
+- *Enjoy the dedicated support and service level agreements (SLAs) tailored to the organisation's needs, ensuring quick resolution of any issues.*
 
 ### **Our Offerings**
 

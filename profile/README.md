@@ -1,13 +1,10 @@
 ## 🛡 **Empowering Your Data and AI with Safety, Privacy and Flexibility**
 
-Welcome to AligneAI! We are at the forefront of AI technology, providing open-source models that are deployed directly into your private workspace on the AligneAI cloud. Our mission is to offer personalised AI solutions that cater to your unique business needs while ensuring utmost data privacy and security.
-
-![AligneAI](/profile/aligneai2.jpg)
-
-
 ### **What is AligneAI?**
 
-AligneAI has a distinctive approach to model deployment and data privacy. We specialise in offering AI models like LLMs and text embedding models similar to ChatGPT, but with a key difference: we use open source models that are designed to operate within your private workspace on our secure cloud platform. Additionally, with AligneAI you will be able to wrap your model interactions with toxic content identification, data privacy, and your requirement specific guardrails ensuring safe and secure use of AI.
+AligneAI has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and confogure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AligneAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
+
+![AligneAI](/profile/aligneai2.jpg)
 
 ### **What will you be able to achieve?**
 

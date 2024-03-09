@@ -2,7 +2,7 @@
 
 ### **What is AligneAI?**
 
-AligneAI has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and confogure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AligneAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
+Similar to OpenAI, AligneAI is an API platform that has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and configure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AligneAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
 
 ![AligneAI](/profile/aligneai2.jpg)
 

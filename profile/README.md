@@ -20,12 +20,13 @@ AligneAI has a distinctive approach to dedicated model deployment, data privacy 
 - *Encourage innovation by using a framework within which AI can be developed and used creatively, yet safely, respecting human rights, promoting fairness, and avoiding discrimination or harm.*
 - *Enjoy the dedicated support and service level agreements (SLAs) tailored to the organisation's needs, ensuring quick resolution of any issues.*
 
-### **Our Offerings**
+### **AligneAI Offerings**
 
-- **Private Workspace Deployment**: Your AI models run in an isolated environment, ensuring that your data never leaves your control.
-- **Open Source Models**: Full access to the model's source code, allowing for customisation and transparency.
-- **Scalable AI Solutions**: From small projects to enterprise-level deployments, our platform scales with your needs.
-- **Dedicated Support**: Expert assistance to help you integrate and optimise AI models for your specific requirements.
+- **Private & On-prem Workspace Deployments**: Your AI models run in an isolated environment (Aligne cloud or on your premises), ensuring that your data never leaves your control.
+- **Ethical AI and safety guardrails**: Aligne's data privacy, Ethical and AI safety compliance guardrails.
+- **Open Source Models**: Complete access to the model's weights, training process and related research. Allowing for customisation and transparency.
+- **Scalable AI Solutions**: From small projects to enterprise-level deployments, AligneAI scales with your needs.
+- **Dedicated Support**: Expert assistance to help you integrate and optimise custom AI models for your specific requirements.
 
 ### **Benefits of Using AligneAI**
 
@@ -36,7 +37,7 @@ AligneAI has a distinctive approach to dedicated model deployment, data privacy 
 
 ### **How We Differ From OpenAI / ChatGPT**
 
-While OpenAI provides proprietary AI models via a shared platform, AligneAI emphasises privacy, customisation, and control by offering open-source models deployed in your private workspace. This approach not only enhances data security but also provides the flexibility to modify and adapt AI models to suit your specific requirements, all while maintaining a scalable and cost-effective cloud infrastructure.
+While OpenAI provides their proprietary AI models via a shared platform, AligneAI emphasises privacy, customisation, and control by offering open-source models deployed in your private workspace. This approach not only enhances data security but also provides the flexibility to modify and adapt AI models to suit your specific requirements, all while maintaining a scalable and cost-effective cloud infrastructure.
 
 |   | OpenAI (Focus on innovation) | AligneAI (Focus on stability, security, safety and cost-effectiveness) |
 |---|-------------------------------|--------------------------------------------------------------------|

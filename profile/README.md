@@ -1,14 +1,14 @@
 ## 🛡 **Empowering Your Data and AI with Safety, Privacy and Flexibility**
 
-### **What is AligneAI?**
+### **What is AltrumAI?**
 
-AligneAI is an AI platform that has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and configure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AligneAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
+AltrumAI is an AI platform that has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and configure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AltrumAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
 
-![AligneAI](/profile/aligneai2.jpg)
+![AltrumAI](/profile/altrumai.png)
 
 ### **What will you be able to achieve?**
 
-**With AligneAI you will be able to:**
+**With AltrumAI you will be able to:**
 
 - *Proprietary data remains in your workspace and is not exposed to external environments or third parties.*
 - *Customise models to better suit your specific use cases, including specialised industry vocabulary or company-specific information.*
@@ -20,15 +20,15 @@ AligneAI is an AI platform that has a distinctive approach to dedicated model de
 - *Encourage innovation by using a framework within which AI can be developed and used creatively, yet safely, respecting human rights, promoting fairness, and avoiding discrimination or harm.*
 - *Enjoy the dedicated support and service level agreements (SLAs) tailored to the organisation's needs, ensuring quick resolution of any issues.*
 
-### **AligneAI Offerings**
+### **AltrumAI Offerings**
 
 - **Private & On-prem Workspace Deployments**: Your AI models run in an isolated environment (Aligne cloud or on your premises), ensuring that your data never leaves your control.
 - **Ethical AI and safety guardrails**: Aligne's data privacy, Ethical and AI safety compliance guardrails.
 - **Open Source Models**: Complete access to the model's weights, training process and related research. Allowing for customisation and transparency.
-- **Scalable AI Solutions**: From small projects to enterprise-level deployments, AligneAI scales with your needs.
+- **Scalable AI Solutions**: From small projects to enterprise-level deployments, AltrumAI scales with your needs.
 - **Dedicated Support**: Expert assistance to help you integrate and optimise custom AI models for your specific requirements.
 
-### **Benefits of Using AligneAI**
+### **Benefits of Using AltrumAI**
 
 - **Enhanced Privacy and Security**: With models deployed in your private workspace, sensitive data is processed securely, without the risks associated with shared model environments.
 - **Customisation and Control**: Access to open source models allows for customisation, enabling you to tailor AI solutions to perfectly fit your business needs.
@@ -37,9 +37,9 @@ AligneAI is an AI platform that has a distinctive approach to dedicated model de
 
 ### **How We Differ From OpenAI / ChatGPT**
 
-While OpenAI provides their proprietary AI models via a shared platform, AligneAI emphasises privacy, customisation, and control by offering open-source models deployed in your private workspace. This approach not only enhances data security but also provides the flexibility to modify and adapt AI models to suit your specific requirements, all while maintaining a scalable and cost-effective cloud infrastructure.
+While OpenAI provides their proprietary AI models via a shared platform, AltrumAI emphasises privacy, customisation, and control by offering open-source models deployed in your private workspace. This approach not only enhances data security but also provides the flexibility to modify and adapt AI models to suit your specific requirements, all while maintaining a scalable and cost-effective cloud infrastructure.
 
-|   | OpenAI (Focus on innovation) | AligneAI (Focus on stability, security, safety and cost-effectiveness) |
+|   | OpenAI (Focus on innovation) | AltrumAI (Focus on stability, security, safety and cost-effectiveness) |
 |---|-------------------------------|--------------------------------------------------------------------|
 | 1 | All proprietary LLMs          | All open source LLMs (Can be fine-tuned transparently)              |
 | 2 | No custom toxic content identification out of the box | Custom toxic content identification available out of the box |
@@ -61,9 +61,9 @@ While OpenAI provides their proprietary AI models via a shared platform, AligneA
 - *Tailor interactions to the user's preferences, cultural context, or accessibility needs.*
 - *Limit the AI's access to certain databases or information sources, ensuring that only relevant and approved content is used in interactions.*
 
-### **Getting Started with AligneAI**
+### **Getting Started with AltrumAI**
 
-1. **Sign Up**: Create your AligneAI account and access our cloud platform.
+1. **Sign Up**: Create your AltrumAI account and access our cloud platform.
 2. **Deploy Your Model**: Choose from our range of AI models and deploy them into your private workspace.
 3. **Customise and Scale**: Tailor the models to your needs and scale up as your project grows.
 4. **Enjoy Support**: Our team is here to help you every step of the way.

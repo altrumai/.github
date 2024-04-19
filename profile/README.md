@@ -4,7 +4,7 @@
 
 AltrumAI is an AI platform that has a distinctive approach to dedicated model deployment, data privacy and ethical AI. We specialise in offering AI models like Large Language Models (LLMs) and embedding models, but with a key difference: we use open source models and configure them to operate within your dedicated/private workspace on our secure platform. Additionally, with AltrumAI you will be able to wrap your model interactions with guardrails like toxic content identification, data privacy, and your requirement specific guardrails ensuring controlled, safe and secure use of AI.
 
-![AltrumAI](./profile/altrumai.jpeg)
+![AltrumAI](./profile/altrum.jpeg)
 
 ### **What will you be able to achieve?**
 

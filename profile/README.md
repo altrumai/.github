@@ -1,7 +1,5 @@
 # AltrumAI - Enterprise AI Control Platform
 
-## 🛡 **Navigate the Generative AI Landscape with Confidence and Control**
-
 ![AltrumAI](./altrumai.png)
 
 ## **What is AltrumAI?**

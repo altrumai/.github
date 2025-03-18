@@ -2,7 +2,7 @@
 
 ## 🛡 **Navigate the Generative AI Landscape with Confidence and Control**
 
-![AltrumAI](./profile/altrumai.jpeg)
+![AltrumAI](./altrumai.png)
 
 ## **What is AltrumAI?**
 

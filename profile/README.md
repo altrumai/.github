@@ -1,5 +1,3 @@
-# AltrumAI - Enterprise AI Control Platform
-
 ![AltrumAI](./altrumai.png)
 
 ## **What is AltrumAI?**
